@@ -1,0 +1,27 @@
+SWYNEX FINAL DATA ANALYTICS PROJECT
+Titanic Survival Analysis - Key Findings Report
+============================================================
+
+OVERALL STATISTICS
+- Total Passengers : 891
+- Total Survivors  : 342
+- Survival Rate    : 38.4%
+
+KEY BUSINESS INSIGHTS
+----------------------------------------
+1. Gender was the strongest predictor of survival.
+   Women survived at ~74% vs Men at ~19%.
+
+2. Socio-economic status (Passenger Class) significantly
+   affected survival chances (1st: ~63%, 3rd: ~24%).
+
+3. Children and women had priority access to lifeboats
+   ('Women and children first' policy).
+
+4. Higher fare passengers had better survival odds due to
+   better cabin locations and access to lifeboats.
+
+5. Most passengers were young adults (19-35 years old).
+
+6. Passengers traveling with family had slightly better
+   survival rates than those traveling alone.
